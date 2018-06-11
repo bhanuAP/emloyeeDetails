@@ -1,0 +1,17 @@
+.table {
+  font-size: 18px;
+  margin-left: 40px;
+  margin-top: 20px;
+  font-family: sans-serif;
+}
+
+button {
+  font-size: 15px;
+  border-radius: 3px;
+}
+
+h3 {
+  margin-left: 38px;
+  margin-top: 20px;
+  margin-bottom: -15px;
+}

@@ -1,0 +1,32 @@
+{
+    "1": {"id": 1,
+      "name": "Bhanu",
+      "age": 19,
+      "phNo": 9182523950
+    },
+    "2": {"id": 2,
+      "name": "Pavan",
+      "age": 30,
+      "phNo": 9182525950
+    },
+    "3": {"id": 3,
+      "name": "Jishnu",
+      "age": 23,
+      "phNo": 9182522950
+    },
+    "4": {"id": 4,
+      "name": "Ujwala",
+      "age": 22,
+      "phNo": 9152523950
+    },
+    "5": {"id": 5,
+      "name": "Shirisha",
+      "age": 23,
+      "phNo": 9182528950
+    },
+    "6": {"id": 6,
+      "name": "Shabareesh",
+      "age": 27,
+      "phNo": 9152523950
+    }
+}
